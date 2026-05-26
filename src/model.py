@@ -4,6 +4,9 @@ import os
 
 import pandas as pd
 from openai import OpenAI
+from dotenv import load_dotenv
+
+load_dotenv()
 
 SYSTEM_PROMPT = """You are a customer support assistant for TechCorp.
 You help users with product questions, billing, and technical issues.

@@ -2,7 +2,9 @@
 
 import os
 import requests
+from dotenv import load_dotenv
 
+load_dotenv()
 
 GUARDS_URL = "https://api.guards.giskard.cloud/guards/v1/chat"
 

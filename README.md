@@ -2,7 +2,7 @@
 
 A complete, runnable example demonstrating a **continuous security loop** for LLM applications using the Giskard ecosystem — from pre-deployment vulnerability discovery to runtime protection.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VectoringAI/ai-engineering/blob/main/llm/end_to_end_llm_security_with_giskard.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tanquangduong/llm-security-giskard-example/blob/main/end_to_end_llm_security_with_giskard.ipynb)
 
 ## Overview
 
